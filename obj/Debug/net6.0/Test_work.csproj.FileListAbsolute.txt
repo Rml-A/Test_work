@@ -1,0 +1,15 @@
+L:\Обучение GB\Test_work\bin\Debug\net6.0\Test_work.exe
+L:\Обучение GB\Test_work\bin\Debug\net6.0\Test_work.deps.json
+L:\Обучение GB\Test_work\bin\Debug\net6.0\Test_work.runtimeconfig.json
+L:\Обучение GB\Test_work\bin\Debug\net6.0\Test_work.dll
+L:\Обучение GB\Test_work\bin\Debug\net6.0\Test_work.pdb
+L:\Обучение GB\Test_work\obj\Debug\net6.0\Test_work.csproj.AssemblyReference.cache
+L:\Обучение GB\Test_work\obj\Debug\net6.0\Test_work.GeneratedMSBuildEditorConfig.editorconfig
+L:\Обучение GB\Test_work\obj\Debug\net6.0\Test_work.AssemblyInfoInputs.cache
+L:\Обучение GB\Test_work\obj\Debug\net6.0\Test_work.AssemblyInfo.cs
+L:\Обучение GB\Test_work\obj\Debug\net6.0\Test_work.csproj.CoreCompileInputs.cache
+L:\Обучение GB\Test_work\obj\Debug\net6.0\Test_work.dll
+L:\Обучение GB\Test_work\obj\Debug\net6.0\refint\Test_work.dll
+L:\Обучение GB\Test_work\obj\Debug\net6.0\Test_work.pdb
+L:\Обучение GB\Test_work\obj\Debug\net6.0\Test_work.genruntimeconfig.cache
+L:\Обучение GB\Test_work\obj\Debug\net6.0\ref\Test_work.dll
