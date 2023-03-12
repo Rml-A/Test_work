@@ -23,4 +23,28 @@ void SizeNewArray(string[] mass, out int size)
     }
 }
 
+string[] NewArray(string[] mass, int size)
+{
 
+    string[] newArray = new string[size];
+    int k = 0;
+
+    for (int i = 0; i < mass.Length; i++)
+    {
+        if (mass[i].Length <= 3)
+        {
+            newArray[k] = mass[i];
+            k++;
+        }
+
+    }
+    return newArray;
+}
+
+string[] arr = GetArray("Заполните массив: ");
+PrintArray(arr);
+System.Console.WriteLine();
+
+SizeNewArray(arr, out int size);
+string[] newArr = NewArray(arr, size);
+PrintArray(newArr);
